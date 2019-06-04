@@ -1,0 +1,11 @@
+    
+server:
+  port: 9090
+# context:
+#   initializer:
+#     classes: com.dgq.users.config.ConfigInitlizer
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
