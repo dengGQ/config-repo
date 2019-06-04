@@ -1,6 +1,6 @@
     
 server:
-  port: 9090
+  port: 8081
 # context:
 #   initializer:
 #     classes: com.dgq.users.config.ConfigInitlizer
