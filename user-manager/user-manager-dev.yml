@@ -1,0 +1,8 @@
+environment: git/user-manager-dev-5.yml
+user-manager:
+  path:
+    reportPath: /reports/9090
+    searchPathsList: 
+      - /reports/9090/report
+      - /reports/9090/conf
+      - /reports/9090/configs
